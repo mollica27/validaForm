@@ -1,3 +1,5 @@
+Curso de JavaScript e TypeScript do básico ao avançado
+
 # validaForm
 Finalizando modulo 07
-107. Validando um formulário (usando classe)
+Aula 107. Validando um formulário (usando classe)
