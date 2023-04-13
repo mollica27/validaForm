@@ -39,12 +39,12 @@ class ValidaCPF {
         return this.novoCPF === this.cpfLimpo;
     }
 }
-let validacpf = new ValidaCPF('113.761.746-262');
+// let validacpf = new ValidaCPF();
 
 
-if (validacpf.valida()) {
-    console.log(`CPF válido! `);
-  } else {
-    console.log('CPF inválido!');
-  }
+// if (validacpf.valida()) {
+//     console.log(`CPF válido! `);
+//   } else {
+//     console.log('CPF inválido!');
+//   }
 
